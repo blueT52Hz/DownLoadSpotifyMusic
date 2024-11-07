@@ -493,6 +493,356 @@ const trackList = [
     "trackUrl": "",
     "trackUrlSpotify": "https://open.spotify.com/track/3rxbssNItXaXyqc0wJUsYC",
     "lyric": ""
+  },
+  {
+    "trackID": "7fCeYpR02Q8JVuD88hJZVT",
+    "trackName": "Bầu Trời Mới",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/7fCeYpR02Q8JVuD88hJZVT",
+    "lyric": ""
+  },
+  {
+    "trackID": "1KZVA4mJbjH6V9i7lP36FH",
+    "trackName": "Say Yes (Vietnamese Version)",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/1KZVA4mJbjH6V9i7lP36FH",
+    "lyric": ""
+  },
+  {
+    "trackID": "3uT8QfoX0BE8ZJa4h98LDW",
+    "trackName": "Wrong Times",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW",
+    "lyric": ""
+  },
+  {
+    "trackID": "0HAfl1uPBf5qTMiuAi6Ym7",
+    "trackName": "Ừ Thì Chia Tay (feat. RHYDER)",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/0HAfl1uPBf5qTMiuAi6Ym7",
+    "lyric": ""
+  },
+  {
+    "trackID": "6INhamAhXUTRuXliyDirMV",
+    "trackName": "Mưa thâm lặng giời",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV",
+    "lyric": ""
+  },
+  {
+    "trackID": "4NTanSVXBkQ2NmDEbr2vLE",
+    "trackName": "Trái đất ôm Mặt trời",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/4NTanSVXBkQ2NmDEbr2vLE",
+    "lyric": ""
+  },
+  {
+    "trackID": "78lw4wahFNotXb0mOEtPkM",
+    "trackName": "BADBYE",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/78lw4wahFNotXb0mOEtPkM",
+    "lyric": ""
+  },
+  {
+    "trackID": "6IAqflHsPVm4EpYghXauX7",
+    "trackName": "Sinh Ra Đã Là Thứ Đối Lập Nhau",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/6IAqflHsPVm4EpYghXauX7",
+    "lyric": ""
+  },
+  {
+    "trackID": "3COYA2vgfcUhDyRlVpZy5p",
+    "trackName": "PHÓNG ZÌN ZÌN",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p",
+    "lyric": ""
+  },
+  {
+    "trackID": "5vNRhkKd0yEAg8suGBpjeY",
+    "trackName": "APT.",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+    "lyric": ""
+  },
+  {
+    "trackID": "5IZDnmnMBzLnE6APoYL26d",
+    "trackName": "bình yên",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d",
+    "lyric": ""
+  },
+  {
+    "trackID": "3un8UkiPHJjlsrTHQnisXH",
+    "trackName": "Từng Quen",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/3un8UkiPHJjlsrTHQnisXH",
+    "lyric": ""
+  },
+  {
+    "trackID": "31VNCmwspR7nVJ6kruUuJt",
+    "trackName": "Đừng Làm Trái Tim Anh Đau",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt",
+    "lyric": ""
+  },
+  {
+    "trackID": "4eeflgjzTF8xN8U2E0dech",
+    "trackName": "NGỰA Ô",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech",
+    "lyric": ""
+  },
+  {
+    "trackID": "40pWxpbXoBYGPCiofujjZ6",
+    "trackName": "Chăm Hoa",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6",
+    "lyric": ""
+  },
+  {
+    "trackID": "0SLzsfxED15vyUccX4bCqo",
+    "trackName": "HOP ON DA SHOW",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo",
+    "lyric": ""
+  },
+  {
+    "trackID": "4eeflgjzTF8xN8U2E0dech",
+    "trackName": "NGỰA Ô",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech",
+    "lyric": ""
+  },
+  {
+    "trackID": "5J3m0taZ0W1E9HTE0MwcSv",
+    "trackName": "Simp Gái 808",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv",
+    "lyric": ""
+  },
+  {
+    "trackID": "2uZmeuNAxSm7XfVIwLkhCx",
+    "trackName": "nhắn nhủ",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx",
+    "lyric": ""
+  },
+  {
+    "trackID": "64PCybDxes3edHijrcsPV4",
+    "trackName": "NGÁO NGƠ (feat. HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL & Orange)",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/64PCybDxes3edHijrcsPV4",
+    "lyric": ""
+  },
+  {
+    "trackID": "2YZ7CJV3Q1OGh7ZL9PYWcP",
+    "trackName": "GLORY",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP",
+    "lyric": ""
+  },
+  {
+    "trackID": "67smGwuPEtA6GAfeweAVNO",
+    "trackName": "SLAY!",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO",
+    "lyric": ""
+  },
+  {
+    "trackID": "6xBpb9zNWlRHTslOAe6kXF",
+    "trackName": "Slide da Treme Melódica v2",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF",
+    "lyric": ""
+  },
+  {
+    "trackID": "60AVJqYgyAlCckC6Nh2tgO",
+    "trackName": "X-SLIDE",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO",
+    "lyric": ""
+  },
+  {
+    "trackID": "1kZiI82AcevKgv7RCUiG3l",
+    "trackName": "Funk of Galáctico",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l",
+    "lyric": ""
+  },
+  {
+    "trackID": "4fj4Jn4nw8fGX8xdbCntJf",
+    "trackName": "Sau Cơn Mưa",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf",
+    "lyric": ""
+  },
+  {
+    "trackID": "4CUvVaAYuXtvYURLFz7EIL",
+    "trackName": "Chuyện Đôi Ta (feat. Muộii)",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL",
+    "lyric": ""
+  },
+  {
+    "trackID": "7tFwBnuaGXqiiONukPRaCo",
+    "trackName": "Miên Man",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo",
+    "lyric": ""
+  },
+  {
+    "trackID": "7Cjsw965r7mVK888ZqP6Wo",
+    "trackName": "Mình Anh Thôi",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/7Cjsw965r7mVK888ZqP6Wo",
+    "lyric": ""
+  },
+  {
+    "trackID": "78lw4wahFNotXb0mOEtPkM",
+    "trackName": "BADBYE",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/78lw4wahFNotXb0mOEtPkM",
+    "lyric": ""
+  },
+  {
+    "trackID": "19KlZwqlT3fguP2BeHF1Q1",
+    "trackName": "Disease",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1",
+    "lyric": ""
+  },
+  {
+    "trackID": "5vNRhkKd0yEAg8suGBpjeY",
+    "trackName": "APT.",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+    "lyric": ""
+  },
+  {
+    "trackID": "1d7Ptw3qYcfpdLNL5REhtJ",
+    "trackName": "Taste",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ",
+    "lyric": ""
+  },
+  {
+    "trackID": "6dOtVTDdiauQNBQEDOtlAB",
+    "trackName": "BIRDS OF A FEATHER",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+    "lyric": ""
+  },
+  {
+    "trackID": "1Es7AUAhQvapIcoh3qMKDL",
+    "trackName": "Timeless (with Playboi Carti)",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL",
+    "lyric": ""
+  },
+  {
+    "trackID": "2ZsuL7UkkeRfcS6FgBLLHl",
+    "trackName": "Chỉ cần được ngồi đây với em",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/2ZsuL7UkkeRfcS6FgBLLHl",
+    "lyric": ""
+  },
+  {
+    "trackID": "5F752FHeg6DF3BGC1jpKhh",
+    "trackName": "Lời Nói Điêu Trên Môi Em (Lofi) [feat. Freak D]",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/5F752FHeg6DF3BGC1jpKhh",
+    "lyric": ""
+  },
+  {
+    "trackID": "6m6cuH6pqAMAPcEmWwoHHC",
+    "trackName": "Nếu Anh Thấy Lòng Mình Yếu Đuối",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/6m6cuH6pqAMAPcEmWwoHHC",
+    "lyric": ""
+  },
+  {
+    "trackID": "48tno22wpWJQ2rBUFrAriA",
+    "trackName": "Chờ Đợi Có Đáng Sợ (Lofi Version)",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/48tno22wpWJQ2rBUFrAriA",
+    "lyric": ""
+  },
+  {
+    "trackID": "6stDp8sxjMmqsYqN7ieJQO",
+    "trackName": "d0n pku0nq ckj d3 s4u nku ck0 rack",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/6stDp8sxjMmqsYqN7ieJQO",
+    "lyric": ""
+  },
+  {
+    "trackID": "39KWnPNEvbXt423CzjvBfA",
+    "trackName": "Anh Đã Quen Với Cô Đơn",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/39KWnPNEvbXt423CzjvBfA",
+    "lyric": ""
+  },
+  {
+    "trackID": "31VNCmwspR7nVJ6kruUuJt",
+    "trackName": "Đừng Làm Trái Tim Anh Đau",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt",
+    "lyric": ""
+  },
+  {
+    "trackID": "26QXocguj18I1OfmVjy5et",
+    "trackName": "sau lưng Bố",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/26QXocguj18I1OfmVjy5et",
+    "lyric": ""
+  },
+  {
+    "trackID": "7oX6qKTnKeVG6iT0qG1i29",
+    "trackName": "Bông Hoa Đẹp Nhất",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/7oX6qKTnKeVG6iT0qG1i29",
+    "lyric": ""
+  },
+  {
+    "trackID": "6IAqflHsPVm4EpYghXauX7",
+    "trackName": "Sinh Ra Đã Là Thứ Đối Lập Nhau",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/6IAqflHsPVm4EpYghXauX7",
+    "lyric": ""
+  },
+  {
+    "trackID": "4fj4Jn4nw8fGX8xdbCntJf",
+    "trackName": "Sau Cơn Mưa",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf",
+    "lyric": ""
+  },
+  {
+    "trackID": "0e6fZkLArSmDIHnZcIua7t",
+    "trackName": "Không Yêu Em Thì Yêu Ai?",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t",
+    "lyric": ""
+  },
+  {
+    "trackID": "7tFwBnuaGXqiiONukPRaCo",
+    "trackName": "Miên Man",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo",
+    "lyric": ""
+  },
+  {
+    "trackID": "5ECHJ1llWBNYLVCYrllD3x",
+    "trackName": "Chạy Khỏi Thế Giới Này",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x",
+    "lyric": ""
+  },
+  {
+    "trackID": "5J3m0taZ0W1E9HTE0MwcSv",
+    "trackName": "Simp Gái 808",
+    "trackUrl": "",
+    "trackUrlSpotify": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv",
+    "lyric": ""
   }
 ]
 
